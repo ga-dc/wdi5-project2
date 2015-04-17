@@ -15,6 +15,7 @@ Build something that enables people to tell a story.
     - ERDs
     - Scheduling
     - Repos and Readmes
+  - 5:00 Team Retrospective
 - **Tuesday**
   - build
 - **Wednesday**
