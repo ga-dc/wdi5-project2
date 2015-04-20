@@ -23,7 +23,7 @@ Build something that enables people to tell a story.
 - **Thursday**
   - build
 - **Friday**
-  - 10am Project Presentations
+  - 1:30pm - 5:00pm Project Presentations [(presentation guide)](presentation_guide.md)
 
 
 ## How to get help
