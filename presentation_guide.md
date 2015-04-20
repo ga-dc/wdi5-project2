@@ -12,10 +12,12 @@ Your job is to present the product to your CEO such that the CEO can, in turn, p
 
 Your presentation should enable the CEO to:
 * Describe the role of each member of your team. In order to feel in-touch with the staff, the CEO expects each teammember to explain what their role was, and to explain and demonstrate what they worked on.
-* Be aware of the shortcomings of your product so s/he can know what not to demonstrate them to the investors.
+* Illustrate the problem and user stories your product is intended to address.
+* Be aware of the shortcomings of your product so the CEO can know what not to demonstrate to the investors.
 * Highlight the most compelling aspects of your product — what looks the best, and what works the best.
 * Demonstrate the use of the product.
 * Explain what’s next: what features would your team like to add to the product next?
+* Describe the initial reaction from your userbase.
 
 
 ## Format
