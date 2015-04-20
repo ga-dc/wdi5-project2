@@ -15,6 +15,7 @@ Build something that enables people to tell a story.
     - ERDs
     - Scheduling
     - Repos and Readmes
+  - 4:30 Project Update
   - 5:00 Team Retrospective
 - **Tuesday**
   - 4:00-5:30 pm: Learn about Design/Development: Pairing among Team.
