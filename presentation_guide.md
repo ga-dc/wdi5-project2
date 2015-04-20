@@ -22,11 +22,13 @@ Your presentation should enable the CEO to:
 
 ## Format
 
+#### Timings
+
 * 5 minutes to setup (transition)
 * 20 minutes to present
 * 5 minutes for Q&A
 
-### Example Presentation Flow 
+#### Example Presentation Flow 
 
 Below are the suggested parts of a successful presentation, but feel free to modify this fit this to your needs.
 
@@ -35,9 +37,9 @@ Below are the suggested parts of a successful presentation, but feel free to mod
 * Deep dive – Depending on your project, go deeper into to aspects of the work. (see components below)
 * Recap and next steps – Review the pitch and tell the internal team about next steps as a transition to Q & A 
 
-### Presentation Components
+#### Presentation Components
 
-Following are some items to consider including in your presentation...
+Following are some items to consider including in your presentation:
 
 * Functional prototype – e.g. initial coded segments of the MVP)
 * Clickable prototype – e.g. click thru for sections of the flow that is beyond the scope of MVP)
