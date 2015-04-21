@@ -33,5 +33,5 @@ Build something that enables people to tell a story.
 
 ## How to get help
 
-[Create a new issue](https://github.com/ga-students/wdidc5-project2/issues/new)
-[Guide to asking for help](guide_to_asking_for_help.md) 
+* [Create a new issue](https://github.com/ga-students/wdidc5-project2/issues/new)
+  * [Guide to asking for help](guide_to_asking_for_help.md) 
