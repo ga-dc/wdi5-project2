@@ -13,8 +13,8 @@ Representatives from USA Today will be joining us.
 
 We're **SO EXCITED** to see what you've built -- and so impressed by what we've seen already!
 
-| |Classroom 1|Classroom 2|
-|-|-|-|
+| Time | Classroom 1 | Classroom 2 |
+|---|---|---|
 |1:30|Group 1|Group 8|
 |2:00|Group 7|Group 9|
 |2:30|Group 2|Group 10|
