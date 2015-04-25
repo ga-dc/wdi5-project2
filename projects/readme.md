@@ -13,5 +13,4 @@
 - https://github.com/tsetoung/candidate_timeline
 - https://github.com/hellostella/group10_project2
 - https://github.com/btf5048/project2
-- https://github.com/joehurowitz/haiku_wdi_team_eskimo_kisses
 - https://github.com/ZakkMan/chucks
