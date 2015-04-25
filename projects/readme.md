@@ -4,7 +4,6 @@
 - https://github.com/theeltahir/bffs
 - https://github.com/Tuzibun/team-nine
 - https://github.com/hharper/project2_api_usatoday
-- https://github.com/michaelkendall/w05d04freestylehw
 - https://github.com/nhashmi/dc-neighborhood-matcher
 - https://github.com/juliar0se/marijuanapolicytracker
 - https://github.com/presto2116/SignsOfChange
